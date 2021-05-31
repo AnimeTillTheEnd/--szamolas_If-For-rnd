@@ -19,10 +19,10 @@ namespace tömb_lista_gyakorlás_wROB
             Console.WriteLine("Ebben a feladatban Ön 10 feladaton keresztül kivonni és összeadni fog!");
             Random rnd = new Random();
             int pontok = 0;
-            for (int i = 0; i < 2; i++)
+            for (int i = 0; i < 5; i++)
             {
-                int a = rnd.Next(-5, 15);
-                int b = rnd.Next(-5, 15);
+                int a = rnd.Next(-5, 16);
+                int b = rnd.Next(-5, 16);
                 Console.WriteLine("Első szám: " + a + " második szám: " + b + ", vonja ki az elsőből a másodikat!");
                 int c = int.Parse(Console.ReadLine());
                 if (c == a - b)
@@ -31,10 +31,10 @@ namespace tömb_lista_gyakorlás_wROB
                     Console.WriteLine("Helyes, +1pont!");
                 };
             }
-            for (int i = 0; i < 2; i++)
+            for (int i = 0; i < 5; i++)
             {
-                int a = rnd.Next(-5, 15);
-                int b = rnd.Next(-5, 15);
+                int a = rnd.Next(-5, 16);
+                int b = rnd.Next(-5, 16);
                 Console.WriteLine("Első szám: " + a + " második szám: " + b + ", adja hozzá az elsőből a másodikat!");
                 int c = int.Parse(Console.ReadLine());
                 if (c == a + b)
