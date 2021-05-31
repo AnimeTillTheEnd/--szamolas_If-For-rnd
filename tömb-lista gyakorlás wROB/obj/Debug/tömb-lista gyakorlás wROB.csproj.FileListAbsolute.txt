@@ -1,0 +1,7 @@
+C:\Users\jakab\source\repos\tömb-lista gyakorlás wROB\bin\Debug\tömb-lista gyakorlás wROB.exe.config
+C:\Users\jakab\source\repos\tömb-lista gyakorlás wROB\bin\Debug\tömb-lista gyakorlás wROB.exe
+C:\Users\jakab\source\repos\tömb-lista gyakorlás wROB\bin\Debug\tömb-lista gyakorlás wROB.pdb
+C:\Users\jakab\source\repos\tömb-lista gyakorlás wROB\obj\Debug\tömb-lista gyakorlás wROB.csproj.AssemblyReference.cache
+C:\Users\jakab\source\repos\tömb-lista gyakorlás wROB\obj\Debug\tömb-lista gyakorlás wROB.csproj.CoreCompileInputs.cache
+C:\Users\jakab\source\repos\tömb-lista gyakorlás wROB\obj\Debug\tömb-lista gyakorlás wROB.exe
+C:\Users\jakab\source\repos\tömb-lista gyakorlás wROB\obj\Debug\tömb-lista gyakorlás wROB.pdb
